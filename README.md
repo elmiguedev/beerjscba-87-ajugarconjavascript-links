@@ -33,21 +33,42 @@ Link -> [twitch.tv/elmiguedev](https://twitch.tv/elmiguedev)
 - [Box 2D JS](https://github.com/kripken/box2d.js/)
 - [Plank JS](https://github.com/piqnt/planck.js/)
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+## Juegos 3D
+
+- [ThreeJS](https://threejs.org/)
+- [Babylon JS](https://www.babylonjs.com/)
+- [Play Canvas](https://playcanvas.com/)
+
+Alguno de los juegos que comentaba
+
+- [Hordes.io]()
+- [Bruno Simon Portfolio]()
+
+## Desarrollo Multiplayer
+
+- [Socket IO]()
+- [Geckos.io]()
+- [PeerJS]()
+
+Frameworks
+
+- [Colyseus]()
+
+Plataformas / Servicios
+
+- [Action Hero]()
+- [Playroom]()
+- [Photon]()
+- [Heroic labs]()
+
+## Graficos
+
+- [Aseprite](https://www.aseprite.org/)
+- [Libresprite](https://libresprite.github.io/#!/)
+- [Resprite](https://resprite.fengeon.com/)
+- [Kenney Assets](https://kenney.nl/assets)
+
+## Itch IO y sus distintas secciones
+- [Itch.io]()
+- [Itch io Assets]()
+- [Itch io Game Jams]()
