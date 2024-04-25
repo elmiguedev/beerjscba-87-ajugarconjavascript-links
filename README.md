@@ -41,25 +41,25 @@ Link -> [twitch.tv/elmiguedev](https://twitch.tv/elmiguedev)
 
 Alguno de los juegos que comentaba
 
-- [Hordes.io]()
-- [Bruno Simon Portfolio]()
+- [Hordes.io](https://hordes.io/)
+- [Bruno Simon Portfolio](https://bruno-simon.com/)
 
 ## Desarrollo Multiplayer
 
-- [Socket IO]()
-- [Geckos.io]()
-- [PeerJS]()
+- [Socket IO](https://socket.io/)
+- [Geckos.io](https://geckos.io/)
+- [PeerJS](https://peerjs.com/)
 
 Frameworks
 
-- [Colyseus]()
+- [Colyseus](https://colyseus.io/)
 
 Plataformas / Servicios
 
-- [Action Hero]()
-- [Playroom]()
-- [Photon]()
-- [Heroic labs]()
+- [Action Hero](https://www.actionherojs.com/)
+- [Playroom](https://joinplayroom.com/)
+- [Photon](https://www.photonengine.com/)
+- [Heroic labs](https://heroiclabs.com/)
 
 ## Graficos
 
@@ -69,6 +69,9 @@ Plataformas / Servicios
 - [Kenney Assets](https://kenney.nl/assets)
 
 ## Itch IO y sus distintas secciones
-- [Itch.io]()
-- [Itch io Assets]()
-- [Itch io Game Jams]()
+- [Itch.io](https://itch.io/)
+- [Itch io Assets](https://itch.io/game-assets)
+- [Itch io Game Jams](https://itch.io/jam)
+
+## WebGameDev un compendio de muchas cosas para desarrollar webgames
+-[WebGameDev](https://www.webgamedev.com/)
