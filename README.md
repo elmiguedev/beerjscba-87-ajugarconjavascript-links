@@ -2,6 +2,8 @@
 
 Recopilatorio de link que se presentaron en la charla
 
+- Link a los slides de charla -> [Los slides](https://www.canva.com/design/DAGDVDupgUI/KrJhW7bjsYnxIrATMlBDQQ/view?utm_content=DAGDVDupgUI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- Link a la charla en youtube -> [La charla en youtube](https://beerjscba.com/v/87)
 
 ## Migue
 
