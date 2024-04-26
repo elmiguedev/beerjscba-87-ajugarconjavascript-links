@@ -8,7 +8,8 @@ Recopilatorio de link que se presentaron en la charla
 - [Twitter/x](https://twitter.com/elmiguedev)
 - [Instagram](https://instagram.com/elmiguedev)
 - [Linked In](https://linkedin.com/in/elmiguedev)
-
+- [YouTube](https://www.youtube.com/channel/UCupltfAj0nVStF2uEWCSVcg)
+  
 ### Seguime en mi canal de twitch!!
 
 En el canal hacemos desarrollo de videojuegos en vivo, sobre todo de juegos multiplayer online, mientras charlamos con amigos sobre la vida y por supuesto de programacion :D
@@ -74,4 +75,4 @@ Plataformas / Servicios
 - [Itch io Game Jams](https://itch.io/jam)
 
 ## WebGameDev un compendio de muchas cosas para desarrollar webgames
--[WebGameDev](https://www.webgamedev.com/)
+- [WebGameDev](https://www.webgamedev.com/)
